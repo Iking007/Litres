@@ -1,0 +1,4 @@
+com\example\Litres\Model\Books.class
+com\example\Litres\Controller\IndexController.class
+com\example\Litres\LitresApplication.class
+com\example\Litres\Controller\SecretController.class
